@@ -1,0 +1,3 @@
+Best git reference I've found yet. Has a table of context for quick search for specific topics. Can run through the whole tutorial and become a git master!
+
+http://gitimmersion.com/lab_47.html
