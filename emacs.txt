@@ -1,0 +1,4 @@
+Emacs /ˈiːmæks/ and its derivatives are a family of text editors that are characterized by their extensibility. The manual for one variant describes it as "the extensible, customizable, self-documenting, real-time display editor."[2] Development began in the mid-1970s and continues actively as of 2013. Emacs has over 2,000 built-in commands and allows the user to combine these commands into macros to automate work. The use of Emacs Lisp, a variant of the Lisp programming language, provides a deep extension capability.
+
+http://emacsformacosx.com/
+
