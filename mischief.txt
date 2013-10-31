@@ -1,0 +1,9 @@
+Mischief is a vector based painting program used for design and illustration
+
+http://www.madewithmischief.com/
+
+- vector based painting tools
+- infinite zoom
+- export at any size
+- small file sizes
+
