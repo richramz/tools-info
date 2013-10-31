@@ -1,0 +1,2 @@
+Spectacle is a plugin for Mac OSX that lets you easily move around windows without using a mouse via some nifty keyboard shortcuts
+https://github.com/eczarny/spectacle
