@@ -1,0 +1,11 @@
+Color Scheme Designer - Matthew Mosher
+
+Color Scheme Designer is a webapp that let's you create a color scheme for whatever project you are working on.  
+
+It lets you select a scheme, like monochromatic, complimentary, analogic, tetrad, etc.
+
+You can then select a base color and brightness and it generates the other asotiated colors as well as a few tints and shades.
+
+It also gives you the hex codes for the colors so you can easily put them into css, html, photoshop, whatever.
+
+http://colorschemedesigner.com/
